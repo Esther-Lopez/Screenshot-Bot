@@ -24,7 +24,7 @@ async def start(c, m):
                     InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/TGBotsZ')
                 ],
                 [
-                    InlineKeyboardButton('💡  Source Code', url='https://github.com/TGExplore/Screenshot-Bot'),
+                    InlineKeyboardButton('💡 My laboratory (bots)', url='https://t.me/mytestbotz'),
                     InlineKeyboardButton('👨  Creator', url='https://t.me/OO7RoBot')
                 ]
             ]
